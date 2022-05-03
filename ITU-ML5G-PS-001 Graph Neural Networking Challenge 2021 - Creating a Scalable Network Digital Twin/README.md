@@ -1,4 +1,4 @@
-# ITU-ML5G-PS-007: Lightning-Fast Modulation Classification with Hardware-Efficient Neural Networks
+# ITU-ML5G-PS-001 Graph Neural Networking Challenge 2021 - Creating a Scalable Network Digital Twin
 
 ## Description
 Please, note that it is mandatory filling the registration form before the deadline (Aug 31st) to officially participate in this challenge:
